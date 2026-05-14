@@ -23,9 +23,6 @@ Code. Learn. Build. Repeat.
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=tanmay123-dotcom&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay123-dotcom&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay123-dotcom&theme=tokyonight" alt="GitHub Streak" />
 
