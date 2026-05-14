@@ -1,4 +1,4 @@
-# Hello 👋, I'm Tanmay Sharma
+# Hi there👋, I'm Tanmay Sharma
 ### Full stack developer and AI/ML
 
 Computer Engineering student | Java • AI • Web Development
